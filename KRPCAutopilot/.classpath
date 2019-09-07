@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/krpc-java-0.4.8.jar"/>
+	<classpathentry kind="lib" path="src/javatuples-1.2.jar"/>
+	<classpathentry kind="lib" path="src/protobuf-java-3.4.0.jar"/>
+	<classpathentry kind="lib" path="src/krpc-java-0.3.11.jar"/>
+	<classpathentry kind="lib" path="src/MechPeste.jar"/>
+	<classpathentry kind="lib" path="src/protobuf-java-3.5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
